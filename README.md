@@ -1,6 +1,8 @@
+# C Library
+
 ## Description
 
-Libft is a custom C library reimplementing a selection of standard libc functions, along with additional string utilities and linked list manipulation functions. The goal is to understand how these functions work internally and build a reusable foundation for future 42 projects.
+Libft is a custom C library reimplementing a selection of standard libc functions, along with additional string utilities and linked list manipulation functions. The goal is to understand how these functions work internally and build a reusable foundation for later C projects.
 
 The library is compiled as a static archive ('libft.a') and covers:
 
